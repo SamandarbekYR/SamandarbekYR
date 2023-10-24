@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">.Net Developer</h1>
 
-<!--
-**SamandarbekYR/SamandarbekYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I am Samandarbek Yigitaliyev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+[![Telegram Badge](https://img.shields.io/badge/@Samandarbek_Yigitaliyev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Samandarbek_Yigitaliyev)](https://t.me/Samandarbek_Yigitaliyev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">👨🏻‍💻 About Me</h2>
+
+- ⚙️ My specialty : `.net`, `asp.net`, `wpf`, `postgresql`
+- 💻 My programming languages :`.c`, `.cs`, `.cpp`
+- ⚔️ Technogies and tools : `.net`, `git`, `postgre sql`, 
+- 🌱 Learning all about **Najot Ta'lim**
+- 📫 Connect with me: [telegram](https://t.me/Samandarbek_Yigitaliyev)
+- ⚡️ Fun fact: I'm a huge fan of Football
+
+## ⚡ Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamandarbekYR&show_icons=true&theme=gotham" alt="SamandarbekYR"/>
+
+<p align="center"> <a href="https://github.com/SamandarYR"></a> </p>
