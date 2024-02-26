@@ -13,7 +13,13 @@
 - 📫 Connect with me: [telegram](https://t.me/Samandarbek_Yigitaliyev)
 - ⚡️ Fun fact: I'm a huge fan of Football
 
-## ⚡ Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samandarbekyr&show_icons=true&theme=gotham" alt="samandarbekyr"/>
 
-<p align="center"> <a href="https://github.com/samandarbekyr"></a> </p>
+# Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandarbekyr" alt="samandarbekyr" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samandarbekyr&langs_count=8&show_icons=true&locale=en&layout=compact" alt="samandarbekyr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samandarbekyr&show_icons=true&locale=en" alt="samandarbekyr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samandarbekyr&" alt="samandarbekyr" /></p>
+
