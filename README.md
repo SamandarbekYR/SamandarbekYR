@@ -12,3 +12,8 @@
 - 🌱 Learning all about **Najot Ta'lim**
 - 📫 Connect with me: [telegram](https://t.me/Samandarbek_Yigitaliyev)
 - ⚡️ Fun fact: I'm a huge fan of Football
+
+## ⚡ Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samandarbekyr&show_icons=true&theme=gotham" alt="samandarbekyr"/>
+
+<p align="center"> <a href="https://github.com/samandarbekyr"></a> </p>
