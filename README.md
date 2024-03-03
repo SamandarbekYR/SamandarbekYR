@@ -14,7 +14,7 @@
 - ⚡️ Fun fact: I'm a huge fan of Football
 
 
-# Stats
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samandarbekyr&langs_count=8&show_icons=true&locale=en&layout=compact" alt="samandarbekyr" /></p>
 
